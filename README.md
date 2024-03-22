@@ -1,7 +1,7 @@
 # Spring
 
 ### Spring Boot 스터디 (2023.01 ~ 2023.06)(최초), (2024.03 ~ )(복습)
-
+#### - 위 코드는 강의 코드 일부분 발췌
 ---
 
 * #### Roadmap A. [Spring Boot](https://github.com/JH627/Spring_Study) <--
@@ -12,7 +12,7 @@
 
 ## 스터디 자료
 
-* ### [김영한의 스프링 완전 정복 로드맵](https://www.inflearn.com/roadmaps/373) ( 코드 일부분 발췌 )
+* ### [김영한의 스프링 완전 정복 로드맵](https://www.inflearn.com/roadmaps/373)
 
 ## Stack
 
