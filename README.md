@@ -23,7 +23,7 @@
 ## 목차
 
 - #### 01. Spring Core Basic
-- #### 02. HTTP
+- #### 02. HTTP Basic
 - #### 03. Spring MVC Part.1
 - #### 04. Spring MVC Part.2
 - #### 05. Spring DB Part.1
