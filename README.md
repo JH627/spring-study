@@ -1,6 +1,6 @@
 # Spring
 
-### Spring Boot 스터디 (2023.01 ~ 2023.06)(최초), (2024.03 ~ )(복습)
+### Spring 스터디
 
 #### - 위 코드는 강의 코드 일부분 발췌
 
@@ -8,7 +8,9 @@
 
 - #### ${\textsf{\color{green}Roadmap A. Spring Boot <--}}$
 - #### Roadmap B. Spring Data JPA
-- #### Roadmap C. Spring Security & OAuth2
+- #### Roadmap C. Spring Security
+- #### Roadmap D. Spring Security OAuth2
+- #### Roadmap E. Spring Boot Scalable System Design
 
 ---
 
